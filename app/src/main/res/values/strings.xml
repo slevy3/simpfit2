@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simpfit</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="login">jdoe</string>
+    <string name="password">welcome1</string>
+    <string name="title_activity_new_client">NewClient</string>
+    <string name="title_activity_new_session">NewSession</string>
+    <string name="title_activity_view_upcoming">ViewUpcoming</string>
+    <string name="title_activity_view_clients">ViewClients</string>
+</resources>
